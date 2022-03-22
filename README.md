@@ -1,2 +1,1 @@
-# git_test
-just testing
+#Devops Seminar information
